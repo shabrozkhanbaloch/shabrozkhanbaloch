@@ -6,8 +6,10 @@ mostly in R, Python and Bash.
 
 ## Education
 
-- **MSc Bioinformatics, Distinction**, University of West London (2026)
+- **MSc Bioinformatics, Distinction**, University of West London, London (2026)
 - **BSc (Hons) Computing, First Class**, Arden University (2024)
+- **BTEC Level 5 Higher National Diploma in Computing**, New City College,
+  Hackney, London (2020)
 
 ## Training
 
