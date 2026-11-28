@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 190" width="880" height="190" role="img" aria-label="Three results: 18 of 18 genomes reassembled; 52 of 62 differentially expressed genes recovered; C-index early fusion 0.575, clinical only 0.598, MOFA+ 0.611">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#e6edf3}.n{font-size:26px;font-weight:700}.c{font-size:13px}.m{font-size:12px;fill:#9198a1}.v{font-size:12px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace}</style>
+<text class="n" x="0" y="26">18 / 18</text><text class="c" x="0" y="48">genomes reassembled from raw reads</text>
+<circle cx="8" cy="78" r="7" fill="#5fe3d0"/>
+<circle cx="32" cy="78" r="7" fill="#5fe3d0"/>
+<circle cx="56" cy="78" r="7" fill="#5fe3d0"/>
+<circle cx="80" cy="78" r="7" fill="#5fe3d0"/>
+<circle cx="104" cy="78" r="7" fill="#5fe3d0"/>
+<circle cx="128" cy="78" r="7" fill="#5fe3d0"/>
+<circle cx="152" cy="78" r="7" fill="#5fe3d0"/>
+<circle cx="176" cy="78" r="7" fill="#5fe3d0"/>
+<circle cx="200" cy="78" r="7" fill="#5fe3d0"/>
+<circle cx="8" cy="102" r="7" fill="#5fe3d0"/>
+<circle cx="32" cy="102" r="7" fill="#5fe3d0"/>
+<circle cx="56" cy="102" r="7" fill="#5fe3d0"/>
+<circle cx="80" cy="102" r="7" fill="#5fe3d0"/>
+<circle cx="104" cy="102" r="7" fill="#5fe3d0"/>
+<circle cx="128" cy="102" r="7" fill="#5fe3d0"/>
+<circle cx="152" cy="102" r="7" fill="#5fe3d0"/>
+<circle cx="176" cy="102" r="7" fill="#5fe3d0"/>
+<circle cx="200" cy="102" r="7" fill="#5fe3d0"/>
+<text class="m" x="0" y="150">Each dot is one genome.</text><text class="m" x="0" y="168">Study: Tufail et al. 2026</text>
+<text class="n" x="290" y="26">52 / 62</text><text class="c" x="290" y="48">differentially expressed genes recovered</text>
+<circle cx="296" cy="72" r="5.5" fill="#5fe3d0"/>
+<circle cx="313" cy="72" r="5.5" fill="#5fe3d0"/>
+<circle cx="330" cy="72" r="5.5" fill="#5fe3d0"/>
+<circle cx="347" cy="72" r="5.5" fill="#5fe3d0"/>
+<circle cx="364" cy="72" r="5.5" fill="#5fe3d0"/>
+<circle cx="381" cy="72" r="5.5" fill="#5fe3d0"/>
+<circle cx="398" cy="72" r="5.5" fill="#5fe3d0"/>
+<circle cx="415" cy="72" r="5.5" fill="#5fe3d0"/>
+<circle cx="432" cy="72" r="5.5" fill="#5fe3d0"/>
+<circle cx="449" cy="72" r="5.5" fill="#5fe3d0"/>
+<circle cx="466" cy="72" r="5.5" fill="#5fe3d0"/>
+<circle cx="483" cy="72" r="5.5" fill="#5fe3d0"/>
+<circle cx="500" cy="72" r="5.5" fill="#5fe3d0"/>
+<circle cx="517" cy="72" r="5.5" fill="#5fe3d0"/>
+<circle cx="534" cy="72" r="5.5" fill="#5fe3d0"/>
+<circle cx="551" cy="72" r="5.5" fill="#5fe3d0"/>
+<circle cx="296" cy="89" r="5.5" fill="#5fe3d0"/>
+<circle cx="313" cy="89" r="5.5" fill="#5fe3d0"/>
+<circle cx="330" cy="89" r="5.5" fill="#5fe3d0"/>
+<circle cx="347" cy="89" r="5.5" fill="#5fe3d0"/>
+<circle cx="364" cy="89" r="5.5" fill="#5fe3d0"/>
+<circle cx="381" cy="89" r="5.5" fill="#5fe3d0"/>
+<circle cx="398" cy="89" r="5.5" fill="#5fe3d0"/>
+<circle cx="415" cy="89" r="5.5" fill="#5fe3d0"/>
+<circle cx="432" cy="89" r="5.5" fill="#5fe3d0"/>
+<circle cx="449" cy="89" r="5.5" fill="#5fe3d0"/>
+<circle cx="466" cy="89" r="5.5" fill="#5fe3d0"/>
+<circle cx="483" cy="89" r="5.5" fill="#5fe3d0"/>
+<circle cx="500" cy="89" r="5.5" fill="#5fe3d0"/>
+<circle cx="517" cy="89" r="5.5" fill="#5fe3d0"/>
+<circle cx="534" cy="89" r="5.5" fill="#5fe3d0"/>
+<circle cx="551" cy="89" r="5.5" fill="#5fe3d0"/>
+<circle cx="296" cy="106" r="5.5" fill="#5fe3d0"/>
+<circle cx="313" cy="106" r="5.5" fill="#5fe3d0"/>
+<circle cx="330" cy="106" r="5.5" fill="#5fe3d0"/>
+<circle cx="347" cy="106" r="5.5" fill="#5fe3d0"/>
+<circle cx="364" cy="106" r="5.5" fill="#5fe3d0"/>
+<circle cx="381" cy="106" r="5.5" fill="#5fe3d0"/>
+<circle cx="398" cy="106" r="5.5" fill="#5fe3d0"/>
+<circle cx="415" cy="106" r="5.5" fill="#5fe3d0"/>
+<circle cx="432" cy="106" r="5.5" fill="#5fe3d0"/>
+<circle cx="449" cy="106" r="5.5" fill="#5fe3d0"/>
+<circle cx="466" cy="106" r="5.5" fill="#5fe3d0"/>
+<circle cx="483" cy="106" r="5.5" fill="#5fe3d0"/>
+<circle cx="500" cy="106" r="5.5" fill="#5fe3d0"/>
+<circle cx="517" cy="106" r="5.5" fill="#5fe3d0"/>
+<circle cx="534" cy="106" r="5.5" fill="#5fe3d0"/>
+<circle cx="551" cy="106" r="5.5" fill="#5fe3d0"/>
+<circle cx="296" cy="123" r="5.5" fill="#5fe3d0"/>
+<circle cx="313" cy="123" r="5.5" fill="#5fe3d0"/>
+<circle cx="330" cy="123" r="5.5" fill="#5fe3d0"/>
+<circle cx="347" cy="123" r="5.5" fill="#5fe3d0"/>
+<circle cx="364" cy="123" r="4.8" fill="none" stroke="#f0a35e" stroke-width="1.6"/>
+<circle cx="381" cy="123" r="4.8" fill="none" stroke="#f0a35e" stroke-width="1.6"/>
+<circle cx="398" cy="123" r="4.8" fill="none" stroke="#f0a35e" stroke-width="1.6"/>
+<circle cx="415" cy="123" r="4.8" fill="none" stroke="#f0a35e" stroke-width="1.6"/>
+<circle cx="432" cy="123" r="4.8" fill="none" stroke="#f0a35e" stroke-width="1.6"/>
+<circle cx="449" cy="123" r="4.8" fill="none" stroke="#f0a35e" stroke-width="1.6"/>
+<circle cx="466" cy="123" r="4.8" fill="none" stroke="#f0a35e" stroke-width="1.6"/>
+<circle cx="483" cy="123" r="4.8" fill="none" stroke="#f0a35e" stroke-width="1.6"/>
+<circle cx="500" cy="123" r="4.8" fill="none" stroke="#f0a35e" stroke-width="1.6"/>
+<circle cx="517" cy="123" r="4.8" fill="none" stroke="#9198a1" stroke-width="1.4" stroke-dasharray="2.5 2.5"/>
+<text class="m" x="290" y="150">Filled: recovered. Ring: not recovered (9).</text><text class="m" x="290" y="168">Dashed: not in annotation (1). Prasse et al. 2017</text>
+<text class="n" x="612" y="26">+0.036</text><text class="c" x="612" y="48">C-index, MOFA+ over early fusion</text>
+<text class="m" x="612" y="79">Early fusion</text><rect x="704" y="70" width="108" height="10" rx="-23" fill="#262c33"/><rect x="704" y="70" width="39.6" height="10" rx="-23" fill="#f0a35e"/>
+<path d="M717.7 75H772.4M717.7 71v8M772.4 71v8" stroke="#e6edf3" stroke-width="1.2" fill="none"/>
+<text class="v" x="820" y="79">0.575</text>
+<text class="m" x="612" y="103">Clinical only</text><rect x="704" y="94" width="108" height="10" rx="-23" fill="#262c33"/><rect x="704" y="94" width="56.2" height="10" rx="-23" fill="#5fe3d0"/>
+<path d="M734.2 99H789M734.2 95v8M789 95v8" stroke="#e6edf3" stroke-width="1.2" fill="none"/>
+<text class="v" x="820" y="103">0.598</text>
+<text class="m" x="612" y="127">MOFA+</text><rect x="704" y="118" width="108" height="10" rx="-23" fill="#262c33"/><rect x="704" y="118" width="65.5" height="10" rx="-23" fill="#5fe3d0"/>
+<path d="M740.7 123H798.3M740.7 119v8M798.3 119v8" stroke="#e6edf3" stroke-width="1.2" fill="none"/>
+<text class="v" x="820" y="127">0.611</text>
+<text class="m" x="612" y="150">Axis 0.52 to 0.67. Line: 95% interval.</text><text class="m" x="612" y="168">TCGA-LUAD, 440 patients</text>
+</svg>
